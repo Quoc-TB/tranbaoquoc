@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="TranBaoQuoc.css">
+    <script src="TranBaoQuoc.js"></script>
+    <LINK REL="SHORTCUT ICON" HREF="abc.ico">
+    <title>Sao Studio</title>
+</head>
+<body>
+    <div class="Full">
+       <!--Banner đầu tiên-->
+       <div class="banner">
+            <div class="logo">
+                <img src="saolg.png" alt="">
+            </div>
+            <div class="quangcao">
+               <!-- <marquee width="100%" scrollamount="3" behavior="alternate">
+                   
+                </marquee>-->
+            </div>
+           <div class="name">Sao Studio <span style="font-size: 18px;">Chất lượng tạo nên thương hiệu!</span></div>
+           <div class="timkiem">
+               <input type="text" placeholder="Nhập từ khóa để tìm kiếm" style="border: none;">
+               <button style="background-image: url(Searchicon.png);"></button>
+           </div>
+           <div class="mxh">
+               <ul>
+                   <li><img src="gm.png" alt=""></li>
+                   <li><img src="fb.png" alt=""></li>
+                   <li><img src="yt.png" alt=""></li>
+               </ul>
+           </div>
+       </div>
+       <!--làm menu-->
+       <div class="menu">
+           <ul>
+              <li style="width: 52px; height: 40px;"><img src="home.png" alt=""></li>
+              <li>Chụp ảnh nghệ thuật</li>
+              <li>Tổ chức sự kiện</li>
+              <li>Livestream</li>
+              <li>Dịch vụ online</li>
+              <li>Phụ kiện Studio</li>
+              <li>Liên hệ</li>
+           </ul>
+       </div>
+       <!--ảnh quảng cáo-->
+       <div class="dichvuquangcao">
+        <img src="anh2.jpg" alt="" style="width: 900px; height: 500px; border-radius: 10px;">
+       </div>
+       <div class="dvqcleft">
+        <img src="anh1.jpg" alt="" style="height: 240px; width: 400px; border-radius: 10px;">
+       </div>
+       <div class="dvqcleft">
+        <img src="anh4.jpg" alt="" style="height: 240px; width: 400px; border-radius: 10px;">
+       </div>
+       <!--Làm menu con hiện lên-->
+       <div class="level2">
+           ahaha
+       </div>
+
+    </div>
+</body>
+</html>
